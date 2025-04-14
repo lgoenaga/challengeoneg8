@@ -85,3 +85,7 @@ git clone https://github.com/lgoenaga/challengeoneg8.git
 ```python
 python3 main.py
 ```
+4. **Facturación**: Calcular la facturación total de cada tienda.
+```python
+python3 facturacion.py
+```
