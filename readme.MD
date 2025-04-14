@@ -93,3 +93,7 @@ python3 facturacion.py
 ```python
 python3 ventas_por_categoria.py
 ```
+6. **Calificación promedio de la tienda**: Calcular la calificación promedio de cada tienda.
+```python
+python3 calificacion_promedio.py
+```
