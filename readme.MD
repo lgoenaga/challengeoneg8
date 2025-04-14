@@ -97,3 +97,7 @@ python3 ventas_por_categoria.py
 ```python
 python3 calificacion_promedio.py
 ```
+7. **Productos más y menos vendidos**: Identificar los 10 productos más y menos vendidos en cada tienda.
+```python
+python3 productos_mas_menos_vendidos.py
+```
