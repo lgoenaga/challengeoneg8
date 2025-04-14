@@ -1,0 +1,31 @@
+# Ignorar archivos de sistema de Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.lnk
+
+# Ignorar archivos de sistema de Linux
+*~
+.directory
+
+# Ignorar archivos de sistema de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignorar archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+ENV/
+VENV/
+*.egg-info/
+*.egg
+
+# Ignorar el directorio Documents
+documents/

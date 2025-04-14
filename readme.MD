@@ -67,3 +67,21 @@ El conjunto de datos incluye la siguiente información:
 - **Evaluación de compra**: Comentarios de clientes.
 - **Tipo de Pago y Cuotas**: Métodos utilizados por los clientes.
 - **Coordenadas Geográficas**: Ubicación de las transacciones.
+
+## Análisis de datos
+### Análisis de ingresos
+- **Total de ingresos**: Calcular el total de ingresos generados por cada tienda.
+- **Promedio de ingresos**: Calcular el ingreso promedio por tienda.
+
+# DESARROLLO
+
+1. **Instalación de bibliotecas**: Asegúrate de tener instaladas las bibliotecas necesarias, como Pandas y Matplotlib.
+2. Clonar el repositorio: Clona el repositorio de GitHub que contiene los datos y el código base. Puedes usar el siguiente comando en tu terminal:
+
+```bash
+git clone https://github.com/lgoenaga/challengeoneg8.git
+```
+3. **Carga de datos**: Cargar los datos de las cuatro tiendas utilizando Pandas. Para la carga de datos, puedes usar el siguiente código:
+```python
+python3 main.py
+```
