@@ -1,0 +1,25 @@
+Tienda,Método de pago
+Tienda 1,"Método de pago
+Tarjeta de crédito    1704
+Nequi                  483
+Cupón                  137
+Tarjeta de débito       35
+Name: count, dtype: int64"
+Tienda 2,"Método de pago
+Tarjeta de crédito    1721
+Nequi                  467
+Cupón                  141
+Tarjeta de débito       30
+Name: count, dtype: int64"
+Tienda 3,"Método de pago
+Tarjeta de crédito    1753
+Nequi                  468
+Cupón                  101
+Tarjeta de débito       37
+Name: count, dtype: int64"
+Tienda 4,"Método de pago
+Tarjeta de crédito    1720
+Nequi                  482
+Cupón                  125
+Tarjeta de débito       31
+Name: count, dtype: int64"
