@@ -89,3 +89,7 @@ python3 main.py
 ```python
 python3 facturacion.py
 ```
+5. **Ventas por categoría**: Calcular las ventas por categoría de productos.
+```python
+python3 ventas_por_categoria.py
+```
