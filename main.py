@@ -24,7 +24,13 @@ tienda2 = pd.read_csv("./data/tienda_2.csv")
 tienda3 = pd.read_csv("./data/tienda_3.csv")
 tienda4 = pd.read_csv("./data/tienda_4.csv")
 
-print("tienda columns:", tienda.columns)
+'''
+# Imprimir las columnas de los datos
+    print("tienda columns:", tienda.columns)
+    print("tienda2 columns:", tienda2.columns)
+    print("tienda3 columns:", tienda3.columns)
+    print("tienda4 columns:", tienda4.columns)
+'''
 print(tienda.head())
 
 if __name__ == "__main__":
