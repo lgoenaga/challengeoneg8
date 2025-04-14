@@ -46,3 +46,24 @@ Código base: Ya está listo para extraer y organizar los datos correctamente, r
 
 Los datos se almacenan en DataFrames: cada tienda tiene su propio conjunto de datos (store1, store2, store3 y store4), y debes usarlos para los siguientes pasos del desafío.
 
+https://github.com/lgoenaga/challengeoneg8.git
+
+https://github.com/lgoenaga/challengeoneg8/blob/main/documents/AluraStoreLatam.ipynb
+
+** Cargar los datos de las tiendas **
+Goolge colab
+
+## Conozca el conjunto de datos
+
+Antes de pasar a análisis detallados, es esencial explorar el conjunto de datos para comprender su estructura y contenido. Este paso le permite identificar patrones, inconsistencias y las columnas más relevantes para los siguientes pasos.
+
+### Estructura de datos:
+
+El conjunto de datos incluye la siguiente información:
+
+- **Producto y Categoría**: Artículos vendidos y sus calificaciones.
+- **Precio y Envío**: Valores de venta y costos asociados.
+- **Fecha y ubicación de compra**: Información temporal y geográfica.
+- **Evaluación de compra**: Comentarios de clientes.
+- **Tipo de Pago y Cuotas**: Métodos utilizados por los clientes.
+- **Coordenadas Geográficas**: Ubicación de las transacciones.
