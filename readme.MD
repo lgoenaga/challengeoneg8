@@ -101,3 +101,7 @@ python3 calificacion_promedio.py
 ```python
 python3 productos_mas_menos_vendidos.py
 ```
+8. **Envío promedio por tienda**: Calcular el envío promedio por tienda.
+```python
+python3 envio_promedio.py
+```
