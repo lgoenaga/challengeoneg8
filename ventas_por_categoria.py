@@ -39,11 +39,23 @@ ventas2_df.to_csv("./documents/ventas_por_categoria2.csv", index=False)
 ventas3_df.to_csv("./documents/ventas_por_categoria3.csv", index=False)
 ventas4_df.to_csv("./documents/ventas_por_categoria4.csv", index=False)
 
-# Concatenar los DataFrames
-ventas_totales_df = pd.concat([ventas_df, ventas2_df, ventas3_df, ventas4_df], ignore_index=True)
+# Crear un archivo CSV y escribir los datos
+with open("./data/ventas_categoria_totales.csv", "w") as f:
+    # Escribir los datos de la Tienda 1
+    f.write("Tienda 1\n")  # Título para la Tienda 1
+    ventas_df.to_csv(f, index=False, header=True)  # Escribir el DataFrame de la Tienda 1
 
-# Guardar los resultados en un solo archivo CSV
-ventas_totales_df.to_csv("./data/ventas_categoria_totales.csv", index=False)
+    # Escribir los datos de la Tienda 2
+    f.write("\nTienda 2\n")  # Título para la Tienda 2
+    ventas2_df.to_csv(f, index=False, header=True)  # Escribir el DataFrame de la Tienda 2
+
+    # Escribir los datos de la Tienda 3
+    f.write("\nTienda 3\n")  # Título para la Tienda 3
+    ventas3_df.to_csv(f, index=False, header=True)  # Escribir el DataFrame de la Tienda 3
+
+    # Escribir los datos de la Tienda 4
+    f.write("\nTienda 4\n")  # Título para la Tienda 4
+    ventas4_df.to_csv(f, index=False, header=True)  # Escribir el DataFrame de la Tienda 4
 
 if __name__ == "__main__":
     print("Calculando ventas por categoría...")
