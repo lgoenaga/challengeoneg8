@@ -109,3 +109,7 @@ python3 envio_promedio.py
 ```python
 python3 metodo_pago.py
 ```
+10. **Gráficos**: Crear gráficos para visualizar los resultados de los análisis anteriores. Puedes usar Matplotlib para crear gráficos de barras, gráficos circulares y otros tipos de visualización.
+```python
+python3 graficos.py
+```

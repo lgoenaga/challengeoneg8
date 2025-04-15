@@ -1,0 +1,41 @@
+Tienda,Producto,Cantidad
+Tienda 1,Muñeca bebé,40
+Tienda 1,Mesa de comedor,40
+Tienda 1,Dinosaurio Rex,40
+Tienda 1,Cuerda para saltar,40
+Tienda 1,Mochila,39
+Tienda 1,Ciencia de datos con Python,39
+Tienda 1,Pandereta,36
+Tienda 1,Olla de presión,35
+Tienda 1,Auriculares con micrófono,33
+Tienda 1,Celular ABXY,33
+Tienda 2,Dinosaurio Rex,42
+Tienda 2,Celular ABXY,41
+Tienda 2,Smart TV,40
+Tienda 2,Cubertería,39
+Tienda 2,Asistente virtual,38
+Tienda 2,Auriculares,37
+Tienda 2,Sillón,35
+Tienda 2,Mesa de comedor,34
+Tienda 2,Impresora,34
+Tienda 2,Juego de mesa,32
+Tienda 3,Cubertería,39
+Tienda 3,Muñeca bebé,39
+Tienda 3,Auriculares con micrófono,39
+Tienda 3,Asistente virtual,39
+Tienda 3,Vaso térmico,38
+Tienda 3,Guitarra eléctrica,38
+Tienda 3,Set de vasos,36
+Tienda 3,Mochila,36
+Tienda 3,Microondas,36
+Tienda 3,Bloques de construcción,35
+Tienda 4,Silla de oficina,40
+Tienda 4,Celular ABXY,39
+Tienda 4,Ajedrez de madera,39
+Tienda 4,Smartwatch,39
+Tienda 4,Lavadora de ropa,38
+Tienda 4,Refrigerador,38
+Tienda 4,Ciencia de datos con Python,38
+Tienda 4,Guitarra acústica,37
+Tienda 4,Armario,34
+Tienda 4,Guitarra eléctrica,33
