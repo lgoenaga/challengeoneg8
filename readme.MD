@@ -113,3 +113,29 @@ python3 metodo_pago.py
 ```python
 python3 graficos.py
 ```
+11. **Recomendación final**: Redactar un texto explicando qué tienda debería vender el Sr. Juan para mejorar sus ingresos y no tener mayores perdidas, basándote en los datos presentados.
+
+## Recomendación Final
+
+Después de analizar los datos de facturación, envío promedio, calificación promedio y ventas de productos más y menos vendidos, se recomienda al Sr. Juan que **evite vender en la Tienda 4**. A continuación se detallan las razones y justificaciones:
+
+1. **Baja Facturación**: 
+   - La Tienda 4 tiene la menor facturación, alcanzando **$1,093,693,100.00**. Esto indica que, a pesar de tener un volumen de ventas, no está generando ingresos suficientes en comparación con las otras tiendas. Una menor facturación puede traducirse en menos recursos para reinvertir en el negocio.
+
+2. **Menor Variedad de Productos Populares**: 
+   - Aunque la Tienda 4 tiene un costo de envío promedio más bajo (**23,459.46**), lo que podría parecer ventajoso, la falta de productos populares limita las oportunidades de venta. La Tienda 4 no cuenta con productos que atraigan a un gran número de clientes, lo que puede resultar en un menor interés y, por ende, en menos ventas.
+
+3. **Riesgo de Pérdidas**: 
+   - La Tienda 4 tiene varios productos menos vendidos, como la **silla de oficina** y el **celular ABXY**. Esto sugiere que hay un riesgo significativo de tener un exceso de inventario en productos que no se venden bien. Mantener productos que no tienen demanda puede resultar en pérdidas financieras y costos adicionales de almacenamiento.
+
+4. **Calificación Promedio**: 
+   - La Tienda 4 tiene una calificación promedio de **4.00**, que aunque es aceptable, no es la más alta en comparación con las otras tiendas. Una calificación más baja puede indicar problemas en la satisfacción del cliente, lo que podría afectar la reputación de la tienda y, en consecuencia, las ventas futuras.
+
+5. **Comparación con Otras Tiendas**: 
+   - En contraste, las Tiendas 1, 2 y 3 presentan una mejor combinación de alta facturación, productos populares y calificaciones más altas. Por ejemplo, la Tienda 1 tiene la mayor facturación y una buena variedad de productos, lo que la convierte en una opción más atractiva para el Sr. Juan.
+
+**En conclusión**, el Sr. Juan debería considerar vender en las **Tiendas 1, 2 o 3**, que ofrecen mejores oportunidades de venta y satisfacción del cliente. Debería considerar vender la Tienda 4 no solo minimizará el riesgo de pérdidas, sino que también permitirá al Sr. Juan enfocarse en maximizar sus ingresos y mejorar su rentabilidad, la otra opción es cambiar los productos menos vendidos por otros que tengan una mejor aceptación en el mercado.
+
+## Conclusión
+Este desafío ha permitido al Sr. Juan tomar decisiones informadas sobre su negocio, basándose en datos concretos y análisis detallados. La combinación de análisis de datos y visualización ha facilitado la identificación de áreas de mejora y oportunidades para maximizar los ingresos.
+
